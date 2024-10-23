@@ -14,7 +14,7 @@ model = genai.GenerativeModel('gemini-pro')
 
 # Configure Streamlit page
 st.set_page_config(
-    page_title="AI Course Generator",
+    page_title="Coursify",
     page_icon="🎓",
     layout="wide",
     initial_sidebar_state="expanded"
