@@ -2,6 +2,10 @@
 
 Welcome to the AI Course Generator project! This tool uses AI to create comprehensive course outlines on any topic. It's like having a genius professor in your pocket! 🧠💼
 
+## 🌐 Demo
+
+Check out the live demo: [Demo](https://coursify-ai-zh3btcgngch52glwlarnjr.streamlit.app/)
+
 ## 🌟 Features
 
 - 🤖 AI-powered course generation
@@ -57,14 +61,5 @@ Found a bug? Want to add a feature? Open an issue or submit a pull request. Let'
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🙌 Acknowledgments
-
-- Shoutout to Google for the Gemini Pro API 🙏
-- Big ups to Tavily for the search API 🔍
-- Thanks to the Streamlit team for making UIs easy 🖥️
-
-## 🌐 Demo
-
-Check out the live demo: [AI Course Generator Demo](https://coursify-ai-zh3btcgngch52glwlarnjr.streamlit.app/)
 
 Happy course generating! May your learning never stop and your coffee never run out! ☕️📚🚀
